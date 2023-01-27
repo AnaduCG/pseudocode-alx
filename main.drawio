@@ -4,77 +4,77 @@
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=13;" edge="1" parent="1" source="2" target="5">
+                <mxCell id="38" value="" style="edgeStyle=none;html=1;fontSize=13;" parent="1" source="2" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Decalear an array variable&lt;br&gt;'nums'&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="240" width="120" height="80" as="geometry"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Decalear an array variable&lt;br&gt;'nums'&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="42" width="120" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="" style="edgeStyle=none;html=1;fontSize=13;" edge="1" parent="1" source="3" target="2">
+                <mxCell id="39" value="" style="edgeStyle=none;html=1;fontSize=13;" parent="1" source="3" target="2" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Declear an empty array variable 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="270" y="250" width="120" height="60" as="geometry"/>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Declear an empty array variable 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="270" y="52" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="18">
+                <mxCell id="19" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="18" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;loop thorugh&amp;nbsp;&lt;br&gt;'nums'&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="420" width="80" height="80" as="geometry"/>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;br&gt;loop thorugh&amp;nbsp;&lt;br&gt;'nums'&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="222" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="18" target="20">
+                <mxCell id="21" value="" style="edgeStyle=none;html=1;" parent="1" source="18" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Square each num value&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="570" width="120" height="60" as="geometry"/>
+                <mxCell id="18" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Square each num value&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="372" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="20" target="22">
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;" parent="1" source="20" target="22" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Append each squred 'nums' value to 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="720" width="120" height="60" as="geometry"/>
+                <mxCell id="20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Append each squred 'nums' value to 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="522" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22">
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" parent="1" source="22" edge="1">
                     <mxGeometry relative="1" as="geometry">
-                        <mxPoint x="540" y="1010" as="targetPoint"/>
+                        <mxPoint x="540" y="812" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="40" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="25">
+                <mxCell id="40" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="25" vertex="1" connectable="0">
                     <mxGeometry x="-0.35" y="-1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="31">
+                <mxCell id="32" value="" style="edgeStyle=none;html=1;" parent="1" source="22" target="31" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="32">
+                <mxCell id="42" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="32" vertex="1" connectable="0">
                     <mxGeometry x="-0.3333" y="1" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;if loop completes&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="500" y="850" width="80" height="80" as="geometry"/>
+                <mxCell id="22" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;if loop completes&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="652" width="80" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="27" target="29">
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;" parent="1" source="27" target="29" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;sum up the values of 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="1010" width="120" height="60" as="geometry"/>
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;sum up the values of 'squared'&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="812" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;print the sum of squared&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="1160" width="120" height="60" as="geometry"/>
+                <mxCell id="29" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;print the sum of squared&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="962" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="34" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="31" target="33">
+                <mxCell id="34" value="" style="edgeStyle=none;html=1;" parent="1" source="31" target="33" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="880" width="20" height="20" as="geometry"/>
+                <mxCell id="31" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="682" width="20" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="33" target="5">
+                <mxCell id="35" value="" style="edgeStyle=none;html=1;" parent="1" source="33" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-                    <mxGeometry x="370" y="450" width="20" height="20" as="geometry"/>
+                <mxCell id="33" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="252" width="20" height="20" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
